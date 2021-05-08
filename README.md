@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Tisey Soft
+- 👀 I’m a Software developer, I develop mebsites, I'm currently more of a front-end engineer ...
+- 💞️ I’m looking to collaborate on multiple front end projects ...
+- 📫 How to reach me : tiseysoft@gmail.com ...
+
+<!---
+TiseySoft-Js/TiseySoft-Js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
